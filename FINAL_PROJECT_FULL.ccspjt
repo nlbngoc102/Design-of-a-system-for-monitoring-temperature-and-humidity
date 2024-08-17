@@ -1,0 +1,16 @@
+[PROJECT]
+Target=FINAL_PROJECT_FULL.hex
+Processor_Text=PIC16F887
+CCSVersion=5.015
+Compiler=PCM
+[Target Data]
+FileList=FINAL_PROJECT_FULL.c
+[Directories]
+Include=C:\Program Files (x86)\Common Files\PICC\Devices\;C:\Program Files (x86)\Common Files\PICC\Drivers\
+[FINAL_PROJECT_FULL.c]
+Type=4
+[mru-list]
+1=FINAL_PROJECT_FULL.c
+[Units]
+Count=1
+1=FINAL_PROJECT_FULL (main)
